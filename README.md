@@ -1,2 +1,5 @@
 # HomeworkBash
-Hello Gitbash
+
+
+
+Hi all
