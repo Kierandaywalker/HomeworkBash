@@ -1,4 +1,3 @@
 # HomeworkBash
 Hello
-Hi all
-
+Hi from master
